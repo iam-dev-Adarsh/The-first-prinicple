@@ -1,18 +1,8 @@
-<div align="center">
-
 # First Principles
 
 ### Machine learning, rebuilt from the ground up.
 
 Understand the ideas behind the models by deriving and implementing them yourself — one equation, one experiment, and one insight at a time.
-
-<br />
-
-![Status](https://img.shields.io/badge/status-learning%20in%20public-7c3aed)
-![Focus](https://img.shields.io/badge/focus-machine%20learning-2563eb)
-![Approach](https://img.shields.io/badge/approach-first%20principles-059669)
-
-</div>
 
 ---
 
@@ -28,7 +18,7 @@ This is a learning project in progress. The models below are a **roadmap**, not 
 
 - **Derive before coding.** Start with the problem, assumptions, and objective.
 - **Make the mechanics visible.** Implement the core math and learning procedure rather than hiding them behind a prebuilt model API.
-- **Build intuition with experiments.** Use small examples, visualizations, and controlled changes to understand behavior.
+- **Build intuition with experiments.** Use small examples and controlled changes to understand behavior.
 - **Test the fundamentals.** Check numerical results, edge cases, and behavior against known examples.
 - **Explain the trade-offs.** Document what a model is good at, what it assumes, and when it can fail.
 
@@ -69,8 +59,9 @@ Curious about a particular model, derivation, or experiment? Open an issue to su
 
 ---
 
-<div align="center">
-
 **Don't just use the model. Understand how it came to be.**
 
-</div>
+## Contact
+
+- GitHub: [@iam-dev-Adarsh](https://github.com/iam-dev-Adarsh)
+- Email: [iamvoid03@gmail.com](mailto:iamvoid03@gmail.com)
